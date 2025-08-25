@@ -44,7 +44,7 @@ Tema principal: Nostr Protocol
 
 ## Presentaciones
 
-- Nostr Overview by Josefina Allende
+- Nostr Overview by Josefina Alliende
 
 Discusion
 ---------
