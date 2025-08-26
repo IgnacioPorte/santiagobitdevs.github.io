@@ -45,6 +45,10 @@ Tema principal: Nostr Protocol
 ## Presentaciones
 
 - Nostr Overview by Josefina Alliende
+  - https://fiatjaf.com/nostr.html
+  - https://github.com/nostr-protocol/nostr
+  - https://github.com/nostr-protocol/nips
+  - https://nostr.how/
 
 Discusion
 ---------
